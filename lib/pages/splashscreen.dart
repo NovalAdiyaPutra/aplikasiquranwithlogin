@@ -78,7 +78,7 @@ class SplashScreen extends StatelessWidget {
                               borderRadius: BorderRadius.circular(30),
                             ),
                             child: Text(
-                              'Baca Al-Quran',
+                              'Login untuk Baca Al-Quran',
                               style: GoogleFonts.poppins(
                                 fontSize: 18,
                                 fontWeight: FontWeight.w600,
