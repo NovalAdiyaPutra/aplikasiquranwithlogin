@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315731934941",
+    "project_id": "aplikasi-quran",
+    "storage_bucket": "aplikasi-quran.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315731934941:android:4f77996c767cbf9fbe6534",
+        "android_client_info": {
+          "package_name": "com.example.aplikasiquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315731934941-h390togmnpu7nrmr6bdov8f0hd735cd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasiquran",
+            "certificate_hash": "87b652cd056994492dbf71e925ffa99cfd2b69a2"
+          }
+        },
+        {
+          "client_id": "315731934941-t64c2isa1f3otjp1lepl598mqursgb6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2HA4_q-QcF1LAnpF8US5z8CmThYHBTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315731934941-t64c2isa1f3otjp1lepl598mqursgb6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
